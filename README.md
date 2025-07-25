@@ -1,5 +1,5 @@
 # Software Architecture lecture slides
-This repository contains slides for the text book "software architecture in practice 4th editon" in english feel free to use them for educational purposes.
+This repository contains slides for the text book "software architecture in practice 4th edition" in English feel free to use them for educational purposes.
 
 ### Progress Table
 |  Chapter   | Completed | Reviewed |
