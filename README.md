@@ -14,4 +14,4 @@ This repository contains slides for the text book "software architecture in prac
 | Chapter 22 |     ✅     |    ⬜     |
 | Chapter 23 |     ✅     |    ⬜     |
 | Chapter 24 |     ✅     |    ⬜     |
-| Chapter 25 |     ✅     |    ⬜     |
+| Chapter 25 |     ✅     |    ✅     |
