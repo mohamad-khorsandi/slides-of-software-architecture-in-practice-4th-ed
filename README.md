@@ -7,11 +7,11 @@ This repository contains slides for the text book "software architecture in prac
 | Chapter 15 |     ✅     |    ✅     |
 | Chapter 16 |     ✅     |    ✅     |
 | Chapter 17 |     ✅     |    ✅     |
-| Chapter 18 |     ✅     |    ⬜     |
-| Chapter 19 |     ✅     |    ⬜     |
+| Chapter 18 |     ✅     |    ✅     |
+| Chapter 19 |     ✅     |    ✅     |
 | Chapter 20 |     ✅     |    ⬜     |
-| Chapter 21 |     ✅     |    ⬜     |
-| Chapter 22 |     ✅     |    ⬜     |
-| Chapter 23 |     ✅     |    ⬜     |
-| Chapter 24 |     ✅     |    ⬜     |
+| Chapter 21 |     ✅     |    ✅     |
+| Chapter 22 |     ✅     |    ✅     |
+| Chapter 23 |     ✅     |    ✅     |
+| Chapter 24 |     ✅     |    ✅     |
 | Chapter 25 |     ✅     |    ✅     |
